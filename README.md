@@ -1,5 +1,5 @@
 # update-plugins
-Bash script I use to update all of the plugins on all of my sites using WP-CLI in a Vagrant box.
+Bash script to update plugins on selected sites using WP-CLI in a Vagrant box.
 
 How to use:
 
